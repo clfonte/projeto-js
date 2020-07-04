@@ -1,3 +1,4 @@
+// modos de indicar string
 console.log(typeof "Teste string");
 console.log('Aspas simples');
 console.log(`Crase`);
